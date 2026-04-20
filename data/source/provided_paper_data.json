@@ -1,0 +1,306 @@
+{
+  "study_metadata": {
+    "title": "Beyond Vibe Coding: A Layer-Aware Model for Integrating AI Assistance in Full-Stack Software Development",
+    "tasks": [
+      "T1",
+      "T2",
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "approaches": [
+      "Manual",
+      "Full-AI",
+      "Hybrid"
+    ],
+    "repetitions_per_cell": 3,
+    "total_sessions": 45
+  },
+  "aggregated_means_per_approach": {
+    "Manual": {
+      "development_time_min": 291.0,
+      "loc": 730,
+      "maintainability_index": 76.34,
+      "average_cc": 4.75,
+      "code_smells": 17.0,
+      "eslint_warnings": 23.4,
+      "test_coverage_pct": 76.5,
+      "pass_rate_pct": 96.9,
+      "bugs_pre_release": 1.6,
+      "bugs_post_integration": 1.8,
+      "security_issues": 0.6,
+      "critical_security": 0.0,
+      "integration_success": 0.951,
+      "performance_score_1_to_5": 4.29,
+      "scalability_score_1_to_5": 4.15,
+      "tdi": 0.256,
+      "risk_score": 0.198,
+      "rework_ratio": 0.067
+    },
+    "Full-AI": {
+      "development_time_min": 54.2,
+      "loc": 1146,
+      "maintainability_index": 54.22,
+      "average_cc": 9.12,
+      "code_smells": 91.8,
+      "eslint_warnings": 123.8,
+      "test_coverage_pct": 33.9,
+      "pass_rate_pct": 76.1,
+      "bugs_pre_release": 13.2,
+      "bugs_post_integration": 11.4,
+      "security_issues": 9.4,
+      "critical_security": 2.2,
+      "integration_success": 0.675,
+      "performance_score_1_to_5": 2.97,
+      "scalability_score_1_to_5": 2.41,
+      "tdi": 1.015,
+      "risk_score": 0.751,
+      "rework_ratio": 0.205
+    },
+    "Hybrid": {
+      "development_time_min": 154.2,
+      "loc": 828,
+      "maintainability_index": 69.58,
+      "average_cc": 5.77,
+      "code_smells": 32.0,
+      "eslint_warnings": 47.0,
+      "test_coverage_pct": 61.3,
+      "pass_rate_pct": 92.2,
+      "bugs_pre_release": 5.0,
+      "bugs_post_integration": 1.4,
+      "security_issues": 1.4,
+      "critical_security": 0.0,
+      "integration_success": 0.891,
+      "performance_score_1_to_5": 3.87,
+      "scalability_score_1_to_5": 3.62,
+      "tdi": 0.486,
+      "risk_score": 0.267,
+      "rework_ratio": 0.101
+    }
+  },
+  "task_level_values": {
+    "development_time_min": {
+      "Manual": {
+        "T1": 95,
+        "T2": 211,
+        "T3": 341,
+        "T4": 414,
+        "T5": 394
+      },
+      "Full-AI": {
+        "T1": 20,
+        "T2": 49,
+        "T3": 56,
+        "T4": 71,
+        "T5": 75
+      },
+      "Hybrid": {
+        "T1": 42,
+        "T2": 120,
+        "T3": 200,
+        "T4": 214,
+        "T5": 195
+      }
+    },
+    "maintainability_index": {
+      "Manual": {
+        "T1": 82.4,
+        "T2": 79.9,
+        "T3": 73.8,
+        "T4": 73.5,
+        "T5": 72.1
+      },
+      "Full-AI": {
+        "T1": 73.2,
+        "T2": 57.9,
+        "T3": 49.1,
+        "T4": 47.9,
+        "T5": 43.0
+      },
+      "Hybrid": {
+        "T1": 76.9,
+        "T2": 71.1,
+        "T3": 69.7,
+        "T4": 67.4,
+        "T5": 62.8
+      }
+    },
+    "bugs_pre_release": {
+      "Manual": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 2,
+        "T4": 5,
+        "T5": 2
+      },
+      "Full-AI": {
+        "T1": 2,
+        "T2": 5,
+        "T3": 21,
+        "T4": 20,
+        "T5": 18
+      },
+      "Hybrid": {
+        "T1": 0,
+        "T2": 4,
+        "T3": 3,
+        "T4": 8,
+        "T5": 7
+      }
+    },
+    "security_issues": {
+      "Manual": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 1,
+        "T4": 2,
+        "T5": 1
+      },
+      "Full-AI": {
+        "T1": 1,
+        "T2": 4,
+        "T3": 9,
+        "T4": 12,
+        "T5": 7
+      },
+      "Hybrid": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 2,
+        "T4": 3,
+        "T5": 2
+      }
+    },
+    "rework_ratio": {
+      "Manual": {
+        "T1": 0.056,
+        "T2": 0.064,
+        "T3": 0.065,
+        "T4": 0.065,
+        "T5": 0.083
+      },
+      "Full-AI": {
+        "T1": 0.129,
+        "T2": 0.187,
+        "T3": 0.241,
+        "T4": 0.261,
+        "T5": 0.205
+      },
+      "Hybrid": {
+        "T1": 0.073,
+        "T2": 0.093,
+        "T3": 0.098,
+        "T4": 0.109,
+        "T5": 0.13
+      }
+    }
+  },
+  "layer_specific_quality": {
+    "Manual": {
+      "HTML": 4.7,
+      "CSS": 3.66,
+      "Front-End Logic": 4.15,
+      "Backend": 4.4
+    },
+    "Full-AI": {
+      "HTML": 2.97,
+      "CSS": 2.33,
+      "Front-End Logic": 2.6,
+      "Backend": 2.7
+    },
+    "Hybrid": {
+      "HTML": 4.59,
+      "CSS": 4.08,
+      "Front-End Logic": 3.55,
+      "Backend": 4.2
+    }
+  },
+  "correlations": {
+    "mi_vs_loc": -0.82,
+    "mi_vs_average_cc": -0.952,
+    "mi_vs_code_smells": -0.961,
+    "average_cc_vs_bugs_pre": 0.911,
+    "security_issues_vs_critical": 0.902,
+    "coverage_vs_bugs_post": -0.758
+  },
+  "appendix_claim_support_values": {
+    "a1": {
+      "full_ai_time": 54.2,
+      "manual_time": 291.0,
+      "full_ai_mi": 54.2,
+      "manual_mi": 76.3,
+      "full_ai_risk": 0.75,
+      "manual_risk": 0.2
+    },
+    "a2": {
+      "full_ai_mi_t1": 73.2,
+      "full_ai_mi_t5": 43.0,
+      "manual_drop_approx": 10
+    },
+    "a3": {
+      "critical_findings_by_task_full_ai": {
+        "T1": 0,
+        "T2": 1,
+        "T3": 3,
+        "T4": 5,
+        "T5": 2
+      }
+    },
+    "a4": {
+      "hybrid_avg_time": 154,
+      "manual_avg_time": 291,
+      "hybrid_pct_of_manual": 53
+    },
+    "a5": {
+      "manual_accessibility": 92.4,
+      "full_ai_accessibility": 68.7,
+      "hybrid_accessibility": 89.9
+    },
+    "a6": {
+      "hybrid_design_system_compliance": 4.39,
+      "manual_design_system_compliance": 3.92,
+      "hybrid_style_consistency": 4.08,
+      "manual_style_consistency": 3.66,
+      "full_ai_override_conflicts": 224,
+      "hybrid_override_conflicts": 75
+    },
+    "a7": {
+      "authentication_correctness": {
+        "Manual": 4.79,
+        "Full-AI": 2.8,
+        "Hybrid": 4.5
+      },
+      "authorization_accuracy": {
+        "Manual": 4.56,
+        "Full-AI": 2.18,
+        "Hybrid": 4.45
+      },
+      "security_exposure": {
+        "Manual": 1.42,
+        "Full-AI": 4.03,
+        "Hybrid": 2.04
+      }
+    },
+    "a8": {
+      "hybrid_below_manual": {
+        "edge_case_coverage": {
+          "Hybrid": 3.34,
+          "Manual": 4.08
+        },
+        "structural_clarity": {
+          "Hybrid": 4.59,
+          "Manual": 4.7
+        },
+        "logic_correctness": {
+          "Hybrid": 3.76,
+          "Manual": 4.35
+        }
+      }
+    }
+  },
+  "paper_constraints": {
+    "raw_45_session_rows_in_paper": false,
+    "per_cell_means_and_stds_in_supplementary_only": true,
+    "rubric_mapping_tables_in_supplementary_only": true
+  }
+}

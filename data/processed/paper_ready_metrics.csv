@@ -1,0 +1,148 @@
+level,approach,task_id,metric_name,value,source_path,reproducibility_status,note
+approach,Manual,,dev_time_min,291.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Manual,,loc,730.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,maintainability_index,76.34,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Manual,,cc_avg,4.75,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,code_smells,17.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,eslint_warnings,23.4,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,coverage_pct,76.5,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,pass_rate_pct,96.9,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,bugs_pre_release,1.6,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,bugs_post_integration,1.8,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,security_issues,0.6,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,critical_security,0.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,integration_success,0.951,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,perf_score,4.29,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+approach,Manual,,scalability_score,4.15,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+approach,Manual,,tdi,0.256,data/source/provided_paper_data.json,FORMULA_NOT_RECONSTRUCTABLE,"This metric is preserved from the paper, but the exact formula or normalization needed to recompute it was not recovered."
+approach,Manual,,risk_score,0.198,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Manual,,rework_ratio,0.067,data/source/provided_paper_data.json,ROUNDING_DIFFERENCE,The difference is within the configured rounding threshold.
+approach,Full-AI,,dev_time_min,54.2,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Full-AI,,loc,1146.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,maintainability_index,54.22,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Full-AI,,cc_avg,9.12,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,code_smells,91.8,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,eslint_warnings,123.8,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,coverage_pct,33.9,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,pass_rate_pct,76.1,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,bugs_pre_release,13.2,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Full-AI,,bugs_post_integration,11.4,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,security_issues,9.4,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,critical_security,2.2,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,integration_success,0.675,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,perf_score,2.97,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+approach,Full-AI,,scalability_score,2.41,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+approach,Full-AI,,tdi,1.015,data/source/provided_paper_data.json,FORMULA_NOT_RECONSTRUCTABLE,"This metric is preserved from the paper, but the exact formula or normalization needed to recompute it was not recovered."
+approach,Full-AI,,risk_score,0.751,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Full-AI,,rework_ratio,0.205,data/source/provided_paper_data.json,ROUNDING_DIFFERENCE,The difference is within the configured rounding threshold.
+approach,Hybrid,,dev_time_min,154.2,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Hybrid,,loc,828.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,maintainability_index,69.58,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach,Hybrid,,cc_avg,5.77,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,code_smells,32.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,eslint_warnings,47.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,coverage_pct,61.3,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,pass_rate_pct,92.2,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,bugs_pre_release,5.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,bugs_post_integration,1.4,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,security_issues,1.4,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,critical_security,0.0,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,integration_success,0.891,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,perf_score,3.87,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+approach,Hybrid,,scalability_score,3.62,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+approach,Hybrid,,tdi,0.486,data/source/provided_paper_data.json,FORMULA_NOT_RECONSTRUCTABLE,"This metric is preserved from the paper, but the exact formula or normalization needed to recompute it was not recovered."
+approach,Hybrid,,risk_score,0.267,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+approach,Hybrid,,rework_ratio,0.101,data/source/provided_paper_data.json,ROUNDING_DIFFERENCE,The difference is within the configured rounding threshold.
+cell,Manual,T1,dev_time_min,95.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T2,dev_time_min,211.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T3,dev_time_min,341.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T4,dev_time_min,414.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T5,dev_time_min,394.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T1,dev_time_min,20.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T2,dev_time_min,49.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T3,dev_time_min,56.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T4,dev_time_min,71.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T5,dev_time_min,75.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T1,dev_time_min,42.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T2,dev_time_min,120.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T3,dev_time_min,200.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T4,dev_time_min,214.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T5,dev_time_min,195.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T1,maintainability_index,82.4,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T2,maintainability_index,79.9,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T3,maintainability_index,73.8,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T4,maintainability_index,73.5,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T5,maintainability_index,72.1,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T1,maintainability_index,73.2,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T2,maintainability_index,57.9,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T3,maintainability_index,49.1,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T4,maintainability_index,47.9,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T5,maintainability_index,43.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T1,maintainability_index,76.9,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T2,maintainability_index,71.1,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T3,maintainability_index,69.7,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T4,maintainability_index,67.4,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T5,maintainability_index,62.8,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T1,bugs_pre_release,0.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T2,bugs_pre_release,1.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T3,bugs_pre_release,2.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T4,bugs_pre_release,5.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T5,bugs_pre_release,2.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T1,bugs_pre_release,2.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T2,bugs_pre_release,5.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T3,bugs_pre_release,21.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T4,bugs_pre_release,20.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T5,bugs_pre_release,18.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T1,bugs_pre_release,0.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T2,bugs_pre_release,4.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T3,bugs_pre_release,3.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T4,bugs_pre_release,8.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T5,bugs_pre_release,7.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T1,security_issues,0.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T2,security_issues,1.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T3,security_issues,1.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T4,security_issues,2.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T5,security_issues,1.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T1,security_issues,1.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T2,security_issues,4.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T3,security_issues,9.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T4,security_issues,12.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T5,security_issues,7.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T1,security_issues,0.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T2,security_issues,1.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T3,security_issues,2.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T4,security_issues,3.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T5,security_issues,2.0,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T1,rework_ratio,0.056,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T2,rework_ratio,0.064,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T3,rework_ratio,0.065,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T4,rework_ratio,0.065,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Manual,T5,rework_ratio,0.083,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T1,rework_ratio,0.129,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T2,rework_ratio,0.187,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T3,rework_ratio,0.241,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T4,rework_ratio,0.261,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Full-AI,T5,rework_ratio,0.205,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T1,rework_ratio,0.073,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T2,rework_ratio,0.093,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T3,rework_ratio,0.098,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T4,rework_ratio,0.109,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+cell,Hybrid,T5,rework_ratio,0.13,data/source/provided_paper_data.json,RECOMPUTED,Computed value matches the provided source value.
+approach_layer,Manual,,HTML,4.7,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Manual,,CSS,3.66,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Manual,,Front-End Logic,4.15,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Manual,,Backend,4.4,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Full-AI,,HTML,2.97,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Full-AI,,CSS,2.33,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Full-AI,,Front-End Logic,2.6,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Full-AI,,Backend,2.7,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Hybrid,,HTML,4.59,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Hybrid,,CSS,4.08,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Hybrid,,Front-End Logic,3.55,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+approach_layer,Hybrid,,Backend,4.2,data/source/provided_paper_data.json,MISSING_RUBRIC_MAPPING,"Layer-specific paper value was provided, but supporting rubric thresholds and source signals were not recovered."
+correlation,,,mi_vs_loc,-0.82,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+correlation,,,mi_vs_average_cc,-0.952,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+correlation,,,mi_vs_code_smells,-0.961,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+correlation,,,average_cc_vs_bugs_pre,0.911,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+correlation,,,security_issues_vs_critical,0.902,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+correlation,,,coverage_vs_bugs_post,-0.758,data/source/provided_paper_data.json,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."

@@ -1,0 +1,16 @@
+session_id,task_id,approach,repetition,dev_time_min,build_time_sec,loc,maintainability_index,cc_avg,cc_max,code_smells,eslint_warnings,coverage_pct,pass_rate_pct,bugs_pre_release,bugs_post_integration,security_issues,critical_security,refactor_delta_loc,integration_success,perf_score,scalability_score,html_structural_clarity,html_semantic_correctness,html_accessibility,css_style_consistency,css_design_system_compliance,css_override_conflicts,fe_logic_correctness,fe_edge_case_coverage,fe_state_coherence,fe_async_handling,be_api_alignment,be_authentication_correctness,be_authorization_accuracy,be_db_consistency,be_validation_robustness,be_security_exposure,notes
+,T1,Manual,MISSING,95,,,82.4,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T2,Manual,MISSING,211,,,79.9,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T3,Manual,MISSING,341,,,73.8,,,,,,,2,,1,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T4,Manual,MISSING,414,,,73.5,,,,,,,5,,2,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T5,Manual,MISSING,394,,,72.1,,,,,,,2,,1,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T1,Full-AI,MISSING,20,,,73.2,,,,,,,2,,1,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T2,Full-AI,MISSING,49,,,57.9,,,,,,,5,,4,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T3,Full-AI,MISSING,56,,,49.1,,,,,,,21,,9,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T4,Full-AI,MISSING,71,,,47.9,,,,,,,20,,12,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T5,Full-AI,MISSING,75,,,43.0,,,,,,,18,,7,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T1,Hybrid,MISSING,42,,,76.9,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T2,Hybrid,MISSING,120,,,71.1,,,,,,,4,,1,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T3,Hybrid,MISSING,200,,,69.7,,,,,,,3,,2,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T4,Hybrid,MISSING,214,,,67.4,,,,,,,8,,3,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW
+,T5,Hybrid,MISSING,195,,,62.8,,,,,,,7,,2,,,,,,,,,,,,,,,,,,,,,,TASK_LEVEL_VALUE_FROM_PROVIDED_PAPER_DATA; NOT_A_SESSION_ROW

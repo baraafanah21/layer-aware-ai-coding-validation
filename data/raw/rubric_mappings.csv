@@ -1,0 +1,19 @@
+metric_name,source_signals,threshold_rule,score_1,score_2,score_3,score_4,score_5,comments
+perf_score,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+scalability_score,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+html_structural_clarity,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+html_semantic_correctness,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+html_accessibility,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+css_style_consistency,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+css_design_system_compliance,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+css_override_conflicts,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+fe_logic_correctness,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+fe_edge_case_coverage,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+fe_state_coherence,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+fe_async_handling,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+be_api_alignment,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+be_authentication_correctness,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+be_authorization_accuracy,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+be_db_consistency,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+be_validation_robustness,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.
+be_security_exposure,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,MISSING,Rubric mapping was not provided in the recovered data.

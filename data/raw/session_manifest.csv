@@ -1,0 +1,16 @@
+session_id,task_id,approach,repetition,source_type,source_note,status
+,T1,Manual,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T2,Manual,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T3,Manual,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T4,Manual,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T5,Manual,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T1,Full-AI,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T2,Full-AI,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T3,Full-AI,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T4,Full-AI,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T5,Full-AI,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T1,Hybrid,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T2,Hybrid,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T3,Hybrid,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T4,Hybrid,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
+,T5,Hybrid,MISSING,author_provided_task_level_value,No repetition-level artifact path was provided.,MISSING_SESSION_ROWS
