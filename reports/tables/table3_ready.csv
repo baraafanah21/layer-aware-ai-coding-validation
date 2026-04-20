@@ -1,0 +1,7 @@
+category,count,interpretation,reviewer_risk_level,action_needed
+MATCH,82,fully supported,low,No action needed.
+INSUFFICIENT_SOURCE_DATA,41,limited by missing raw rows or supporting source fields,medium,"Recover session-level rows, supplementary cell statistics, or source fields."
+MISSING_RUBRIC_MAPPING,6,limited by missing rubric definitions,medium,Recover rubric thresholds and source-signal definitions.
+ROUNDING_DIFFERENCE,3,harmless rounding difference,low,Keep both values visible and document rounding.
+FORMULA_NOT_RECONSTRUCTABLE,3,preserved value whose original formula or normalization was not recovered,medium,"Recover the original formula, normalization constants, and supporting inputs."
+TRUE_MISMATCH,0,direct contradiction,high,Investigate before submission.

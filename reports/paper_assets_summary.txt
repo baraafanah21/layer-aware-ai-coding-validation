@@ -1,0 +1,25 @@
+Paper assets summary
+
+This export uses preserved source values when full recomputation is unavailable.
+No values are fabricated, smoothed, or forced to match.
+
+Tables:
+- table1_ready.csv: preserved approach-level paper metrics with reproducibility status.
+- table2_ready.csv: directly provided task-level values with reproducibility status.
+- table3_ready.csv: validation category overview for reviewer inspection.
+
+Figures (per-task where task-level data is available):
+- figure1_development_time.png: development time trend per task, per approach.
+- figure2_maintainability_index.png: maintainability index per task, per approach.
+- figure3_pre_release_bugs.png: pre-release bugs per task, per approach.
+- figure4_security_issues.png: security issues per task with critical portion hatched.
+- figure5_rework_ratio.png: rework ratio per task, per approach.
+- figure6_layer_quality.png: preserved layer-specific quality values; rubric mappings are missing.
+
+Validation overview:
+- MATCH: 82 (fully supported; risk=low)
+- INSUFFICIENT_SOURCE_DATA: 41 (limited by missing raw rows or supporting source fields; risk=medium)
+- MISSING_RUBRIC_MAPPING: 6 (limited by missing rubric definitions; risk=medium)
+- ROUNDING_DIFFERENCE: 3 (harmless rounding difference; risk=low)
+- FORMULA_NOT_RECONSTRUCTABLE: 3 (preserved value whose original formula or normalization was not recovered; risk=medium)
+- TRUE_MISMATCH: 0 (direct contradiction; risk=high)

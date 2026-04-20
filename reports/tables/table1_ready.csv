@@ -1,0 +1,55 @@
+approach,metric_name,value,reproducibility_status,note
+Manual,dev_time_min,291.0,RECOMPUTED,Computed value matches the provided source value.
+Manual,loc,730.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,maintainability_index,76.34,RECOMPUTED,Computed value matches the provided source value.
+Manual,cc_avg,4.75,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,code_smells,17.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,eslint_warnings,23.4,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,coverage_pct,76.5,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,pass_rate_pct,96.9,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,bugs_pre_release,1.6,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,bugs_post_integration,1.8,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,security_issues,0.6,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,critical_security,0.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,integration_success,0.951,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,perf_score,4.29,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+Manual,scalability_score,4.15,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+Manual,tdi,0.256,FORMULA_NOT_RECONSTRUCTABLE,"This metric is preserved from the paper, but the exact formula or normalization needed to recompute it was not recovered."
+Manual,risk_score,0.198,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Manual,rework_ratio,0.067,ROUNDING_DIFFERENCE,The difference is within the configured rounding threshold.
+Full-AI,dev_time_min,54.2,RECOMPUTED,Computed value matches the provided source value.
+Full-AI,loc,1146.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,maintainability_index,54.22,RECOMPUTED,Computed value matches the provided source value.
+Full-AI,cc_avg,9.12,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,code_smells,91.8,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,eslint_warnings,123.8,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,coverage_pct,33.9,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,pass_rate_pct,76.1,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,bugs_pre_release,13.2,RECOMPUTED,Computed value matches the provided source value.
+Full-AI,bugs_post_integration,11.4,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,security_issues,9.4,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,critical_security,2.2,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,integration_success,0.675,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,perf_score,2.97,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+Full-AI,scalability_score,2.41,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+Full-AI,tdi,1.015,FORMULA_NOT_RECONSTRUCTABLE,"This metric is preserved from the paper, but the exact formula or normalization needed to recompute it was not recovered."
+Full-AI,risk_score,0.751,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Full-AI,rework_ratio,0.205,ROUNDING_DIFFERENCE,The difference is within the configured rounding threshold.
+Hybrid,dev_time_min,154.2,RECOMPUTED,Computed value matches the provided source value.
+Hybrid,loc,828.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,maintainability_index,69.58,RECOMPUTED,Computed value matches the provided source value.
+Hybrid,cc_avg,5.77,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,code_smells,32.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,eslint_warnings,47.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,coverage_pct,61.3,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,pass_rate_pct,92.2,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,bugs_pre_release,5.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,bugs_post_integration,1.4,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,security_issues,1.4,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,critical_security,0.0,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,integration_success,0.891,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,perf_score,3.87,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+Hybrid,scalability_score,3.62,MISSING_RUBRIC_MAPPING,"Rubric threshold mappings were not recovered, so this rubric metric cannot be recomputed."
+Hybrid,tdi,0.486,FORMULA_NOT_RECONSTRUCTABLE,"This metric is preserved from the paper, but the exact formula or normalization needed to recompute it was not recovered."
+Hybrid,risk_score,0.267,INSUFFICIENT_SOURCE_DATA,"The available source data does not include enough repetition-level, cell-level, or supporting metric inputs to reconstruct this value exactly."
+Hybrid,rework_ratio,0.101,ROUNDING_DIFFERENCE,The difference is within the configured rounding threshold.
