@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this validation package, please cite both the paper and this repository."
+type: software
+title: "Layer-Aware AI Coding Validation Package"
+abstract: >-
+  Reconstructed validation package for the study "Beyond Vibe Coding: A
+  Layer-Aware Model for Integrating AI Assistance in Full-Stack Software
+  Development." Provides auditable partial reproducibility with explicit
+  labels for every value (MATCH, INSUFFICIENT_SOURCE_DATA,
+  MISSING_RUBRIC_MAPPING, ROUNDING_DIFFERENCE, FORMULA_NOT_RECONSTRUCTABLE,
+  TRUE_MISMATCH).
+authors:
+  - family-names: "Afana"
+    given-names: "Baraa Muayad Tawfiq"
+    email: "baraafanah1@gmail.com"
+    affiliation: "An-Najah National University, Nablus, Palestine"
+repository-code: "https://github.com/baraafanah21/layer-aware-ai-coding-validation"
+keywords:
+  - "AI-assisted development"
+  - "software engineering"
+  - "empirical software engineering"
+  - "reproducibility"
+  - "code quality"
+  - "software security"
+  - "vibe coding"
+license: MIT
+version: "1.0.0"
+date-released: "2026-04-21"
+preferred-citation:
+  type: article
+  title: >-
+    Beyond Vibe Coding: A Layer-Aware Model for Integrating AI Assistance
+    in Full-Stack Software Development
+  authors:
+    - family-names: "Afana"
+      given-names: "Baraa Muayad Tawfiq"
+      email: "baraafanah1@gmail.com"
+      affiliation: "An-Najah National University, Nablus, Palestine"
+  year: 2026
